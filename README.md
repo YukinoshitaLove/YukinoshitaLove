@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=YukinoshitaLove&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+- 🌱 I am a Ph.D. in Computer Science and Technology at Nankai University, Tianjing, China.
+- :books: [My Google Scholar page](https://scholar.google.com.hk/citations?user=IJiK74oAAAAJ&hl=zh-CN) | [Personal Homepage
+](https://www.flashszn.cn/)
+- 📫 How to reach me: shizhenning@mail.nankai.edu.cn
 
 <!--
 **YukinoshitaLove/YukinoshitaLove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
