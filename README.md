@@ -1,4 +1,4 @@
-<img src="https://github.com/YukinoshitaLove/YukinoshitaLove/blob/main/me.jpg" style="float:right; margin: 10px;" height="143" width="100"  alt="me"/>
+<img align="right" src="https://github.com/YukinoshitaLove/YukinoshitaLove/blob/main/me.jpg" height="143" width="100"  alt="me"/>
 
 ## Hi there 👋
 
