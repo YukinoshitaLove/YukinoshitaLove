@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github.com/YukinoshitaLove/YukinoshitaLove/blob/main/me.jpg" height="143" width="100"  alt="me"/>
 
-- 🌱 I am a Ph.D. student in Computer Science and Technology at Nankai University, College of Computer science, Tianjing, China.
+- 🌱 I am a Ph.D. student in Computer Science and Technology at Nankai University, College of Computer Science, Tianjing, China.
 - :books: [My Google Scholar page](https://scholar.google.com.hk/citations?user=IJiK74oAAAAJ&hl=zh-CN) | [Personal Homepage
 ](https://www.flashszn.cn/)
 - 📫 How to reach me: shizhenning@mail.nankai.edu.cn
