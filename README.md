@@ -1,3 +1,5 @@
+<img src="https://github.com/YukinoshitaLove/YukinoshitaLove/blob/main/yukino.png"  alt="yukino"/>
+
 ## Hi there 👋
 
 <img align="right" src="https://github.com/YukinoshitaLove/YukinoshitaLove/blob/main/me.jpg" height="143" width="100"  alt="me"/>
