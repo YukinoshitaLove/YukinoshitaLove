@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="right" src="https://www.flashszn.cn/images/me.jpg" height="257.5" width="180" />
+<img align="right" src="https://github.com/YukinoshitaLove/YukinoshitaLove/blob/main/me.jpg" height="143" width="100" />
 
 - 🌱 I am a Ph.D. student in Computer Science and Technology at Nankai University, College of Computer science, Tianjing, China.
 - :books: [My Google Scholar page](https://scholar.google.com.hk/citations?user=IJiK74oAAAAJ&hl=zh-CN) | [Personal Homepage
