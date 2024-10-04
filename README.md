@@ -1,4 +1,4 @@
-<img src="https://github.com/YukinoshitaLove/YukinoshitaLove/blob/main/yukino.png"  alt="yukino"/>
+<img src="https://github.com/YukinoshitaLove/YukinoshitaLove/blob/main/yukino.jpg"  alt="yukino"/>
 
 ## Hi there 👋
 
